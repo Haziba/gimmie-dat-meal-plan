@@ -24,6 +24,7 @@ var ingredient = {
   HALLOUMI: "halloumi",
   MOZZERELLA: "mozzerella",
   PANEER: "paneer",
+  CHEDDAR: "cheddar",
 
   /* Spices mixes sauces */
   CURRY_SAUCE: "currysauce",
