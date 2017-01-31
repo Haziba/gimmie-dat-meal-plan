@@ -1,4 +1,4 @@
-var ingredient = {
+var ingredients = {
   /* Veg */
   FROZEN_ONIONS: "fronions",
   FROZEN_PEPPERS: "freppers",
