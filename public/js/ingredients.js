@@ -32,5 +32,6 @@ var ingredient = {
   PASTA_SAUCE: "pastasauce",
 
   /* Currently uncategorised extras */
-  WHITE_WINE: "whine"
+  WHITE_WINE: "whine",
+  OLIVES: "olives"
 };
