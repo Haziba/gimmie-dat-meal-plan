@@ -1,38 +1,38 @@
 var ingredients = {
   /* Veg */
-  FROZEN_ONIONS: "fronions",
-  FROZEN_PEPPERS: "freppers",
-  COURGETTE: "courgette",
-  AUBERGINE: "aubergine",
+  FROZEN_ONIONS: "Frozen onions",
+  FROZEN_PEPPERS: "Frozen peppers",
+  COURGETTE: "Courgette",
+  AUBERGINE: "Aubergine",
 
   /* Bread */
-  NAANS: "naans",
-  PITTAS: "pittas",
-  WRAPS: "wraps",
+  NAANS: "Naans",
+  PITTAS: "Pittas",
+  WRAPS: "Wraps",
 
   /* Carbs */
-  PASTA: "pasta",
-  RICE: "rice",
-  RISOTTO_RICE: "risotice",
+  PASTA: "Pasta",
+  RICE: "Rice",
+  RISOTTO_RICE: "Risotto rice",
 
   /* Protein */
-  QUORN_MINCE: "fakince",
-  QUORN_CHICKEN: "ficken",
-  TOFU_BITS: "tofits",
+  QUORN_MINCE: "Quorn mince",
+  QUORN_CHICKEN: "Quorn chicken",
+  TOFU_BITS: "Tofu bits",
 
   /* Cheese */
-  HALLOUMI: "halloumi",
-  MOZZERELLA: "mozzerella",
-  PANEER: "paneer",
-  CHEDDAR: "cheddar",
+  HALLOUMI: "Halloumi",
+  MOZZERELLA: "Mozzerella",
+  PANEER: "Paneer",
+  CHEDDAR: "Cheddar",
 
   /* Spices mixes sauces */
-  CURRY_SAUCE: "currysauce",
-  FAJITA_MIX: "fajitamix",
-  CHILLI_SAUCE: "chillisauce",
-  PASTA_SAUCE: "pastasauce",
+  CURRY_SAUCE: "Curry Sauce",
+  FAJITA_MIX: "Fajita Mix",
+  CHILLI_SAUCE: "Chilli Sauce",
+  PASTA_SAUCE: "Pasta Sauce",
 
   /* Currently uncategorised extras */
-  WHITE_WINE: "whine",
-  OLIVES: "olives"
+  WHITE_WINE: "White wine",
+  OLIVES: "Olives"
 };
